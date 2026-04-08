@@ -7,3 +7,4 @@ This project demonstrates the design and configuration of a multi-branch enterpr
 The network uses the EIGRP routing protocol for dynamic routing between routers, with each LAN assigned to different autonomous systems. Security features such as SSH remote access, enable secret passwords, login banners, and switch port security are implemented to protect the network. Subnetting using the 192.168.10.0/24 network is applied to create multiple LAN segments.
 
 The project simulates a real enterprise network environment where secure communication, routing efficiency, and network management are demonstrated.
+<img width="962" height="462" alt="Project-12" src="https://github.com/user-attachments/assets/a120650c-a86d-49d5-b6ea-90ecbe68bf2a" />
